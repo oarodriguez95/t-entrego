@@ -1,0 +1,8 @@
+{
+  "name": "T-Entrego",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bfcd5e0f"
+}
